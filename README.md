@@ -14,7 +14,7 @@ The approach that I took for version control is that everytime I would stop work
 
  
 1. **Date:** Friday 04/10/20 9:15AM  
-**Command:** Git remote add orgin https://github.com/samf3u/Milestone1.git  
+**Command:** Git remote add orgin https://github.com/samf3u/3813_Asg2.git  
 **Description:** Sets the remote name to origin for the remote repository  
 
 2. **Date:** Friday 04/10/20 9:20AM  
